@@ -158,7 +158,7 @@ mark-ovredir-focused = true;
 use-ewmh-active-win = true;
 # Detect rounded corners and treat them as rectangular when --shadow-ignore-shaped is on.
 detect-rounded-corners = true;
-corner-radius = 12;
+corner-radius = 7;
 
 # Detect _NET_WM_OPACITY on client windows, useful for window managers not passing _NET_WM_OPACITY of client windows to frame windows.
 # This prevents opacity being ignored for some apps.
@@ -196,7 +196,7 @@ detect-transient = true;
 detect-client-leader = true;
 
 # Prevent shadows from drawing across displays.
-xinerama-shadow-crop = true;
+xinerama-shadow-crop = false;
 
 #################################
 #
