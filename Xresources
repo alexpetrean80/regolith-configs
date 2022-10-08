@@ -1,4 +1,4 @@
-!regolith.look.path: /usr/share/regolith-look/solarized-dark
-regolith.look.path: /usr/share/regolith-look/gruvbox
-
+i3-wm.bar.position: top
 i3-wm.gaps.inner.size: 20
+regolith.look.path: /usr/share/regolith-look/nord
+
